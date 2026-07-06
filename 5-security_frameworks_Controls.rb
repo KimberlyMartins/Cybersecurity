@@ -39,5 +39,4 @@ ISO: estabelece padrões internacionais de tecnologia e gestão. Organização I
 
 SOC 1 e SOC 2: relatórios que avaliam conformidade financeira, privacidade, integridade e segurança de dados. Foram desenvolvidos pelo American Institute of Certified Public Accountants. O SOC 1 foca em controles financeiros, enquanto o SOC 2 avalia aspectos como segurança, disponibilidade, integridade, confidencialidade e privacidade. Esses relatórios são usados para demonstrar conformidade e reduzir riscos, sendo especialmente relevantes para empresas que lidam com dados sensíveis ou serviços terceirizados.
 
-Test first commit  
-aaa  bb
+TEST
