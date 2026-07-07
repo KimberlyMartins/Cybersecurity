@@ -11,6 +11,15 @@ Esses três princípios orientam a criação de controles de segurança.
 Controles de segurança  
 São salvaguardas específicas para reduzir riscos. Trabalham junto às estruturas para implementar processos e atender normas de conformidade.
 
+ PII (Personally Identifiable Information): Dados que identificam uma pessoa diretamente ou indiretamente, como: Nome, CPF, RG, endereço, telefone, e-mail, dados biométricos.
+Risco: Roubo de identidade, fraudes, uso indevido.
+
+📌 SPII (Sensitive Personally Identifiable Information); Subconjunto de PII que envolve dados mais delicados, cuja exposição pode causar danos significativos. Como: Informações de saúde, dados financeiros, histórico criminal, orientação sexual, religião.
+Risco: Discriminação, prejuízos financeiros, violação grave de privacidade.
+Proteção: Regras mais rígidas de coleta e uso (ex.: LGPD e GDPR exigem consentimento explícito).
+
+Proteção: Criptografia, controle de acesso, anonimização.
+
                                  ESTRUTURAS DE SEGURANÇA  
 Diretrizes que ajudam a criar planos de proteção. Possuem quatro componentes principais:
 Identificação e documentação das metas de segurança.
