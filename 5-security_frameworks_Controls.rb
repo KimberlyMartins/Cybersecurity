@@ -38,5 +38,3 @@ HIPAA: protege informações de saúde nos EUA; inclui regras de privacidade, se
 ISO: estabelece padrões internacionais de tecnologia e gestão. Organização Internacional de Padronização, cria normas globais aplicáveis a tecnologia, manufatura e gestão. Essas normas ajudam empresas a melhorar processos, reduzir desperdícios e aumentar eficiência. Um exemplo importante é a ISO 27001, voltada para segurança da informação.
 
 SOC 1 e SOC 2: relatórios que avaliam conformidade financeira, privacidade, integridade e segurança de dados. Foram desenvolvidos pelo American Institute of Certified Public Accountants. O SOC 1 foca em controles financeiros, enquanto o SOC 2 avalia aspectos como segurança, disponibilidade, integridade, confidencialidade e privacidade. Esses relatórios são usados para demonstrar conformidade e reduzir riscos, sendo especialmente relevantes para empresas que lidam com dados sensíveis ou serviços terceirizados.
-
-TEST
