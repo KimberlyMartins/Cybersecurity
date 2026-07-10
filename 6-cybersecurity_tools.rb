@@ -1,0 +1,15 @@
+Um kit de ferramentas de um analista de nível básico em cibersegurança reúne os recursos essenciais para monitorar, investigar e responder a incidentes. Cada organização pode montar esse kit de acordo com suas necessidades, mas é fundamental que o analista iniciante conheça as ferramentas padrão do setor e demonstre capacidade de aprender a usar ferramentas semelhantes em diferentes ambientes de trabalho.
+
+                      SIEM - SECURITY INFORMATION AND EVENT MANAGEMENT 
+                  (Gerenciamento de Informações e Eventos de Segurança)
+As ferramentas SIEM são centrais nesse kit. Elas coletam e analisam registros de eventos dos sistemas da empresa, permitindo que o analista identifique atividades críticas e potenciais ameaças. Sem esse tipo de ferramenta, seria necessário gastar horas ou até dias filtrando manualmente grandes volumes de dados. O SIEM reduz essa carga ao emitir alertas específicos sobre riscos e vulnerabilidades. Além disso, oferece painéis visuais que organizam os dados em categorias, facilitando a análise. A hospedagem pode ser feita localmente ou na nuvem, e a escolha depende da experiência da equipe de segurança. Versões em nuvem costumam ser mais simples de configurar e manter, o que pode ser vantajoso para equipes menos experientes.
+
+
+                     PACKET SNIFFER OU ANALISADOR/RASTREADOR DE PACOTES
+Outro recurso importante são os analisadores de protocolo de rede, também chamados de sniffers de pacotes. Essas ferramentas capturam e analisam o tráfego de dados que circula pela rede da organização, registrando tudo o que passa por um computador conectado. Com isso, é possível identificar padrões suspeitos e compreender melhor como os dados estão sendo transmitidos, o que ajuda na detecção de atividades maliciosas.
+
+
+                                     PLAYBOOKS
+Os playbooks complementam o kit, funcionando como manuais que descrevem passo a passo como agir em diferentes situações. Eles garantem que os analistas sigam protocolos e procedimentos adequados durante uma investigação ou resposta a incidentes. Dois tipos de playbooks são especialmente relevantes em análises forenses: o manual da cadeia de custódia, que documenta a posse e o controle das evidências digitais, e o manual de proteção e preservação de evidências, que orienta como lidar com dados frágeis e voláteis seguindo a ordem de volatilidade. Essa ordem prioriza os dados mais suscetíveis a se perderem caso o dispositivo seja desligado, garantindo que a investigação seja conduzida de forma correta e confiável.
+
+Em resumo, o kit de ferramentas de um analista iniciante inclui soluções de monitoramento como SIEM, analisadores de tráfego de rede e manuais operacionais que orientam a resposta a incidentes. Conhecer e praticar o uso dessas ferramentas é essencial para demonstrar capacidade técnica e estar preparado para atuar em diferentes ambientes de segurança.
