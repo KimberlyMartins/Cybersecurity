@@ -26,13 +26,19 @@ Resumo: Protege a comunicação e impede acessos não autorizados às redes.
                        QUINTO DOMÍNIO - GERENCIAMENTO DE IDENTIDADE E ACESSO (IAM)
 É responsável por controlar quem pode acessar os sistemas e quais permissões cada usuário possui. Baseia-se no princípio do menor privilégio, que determina que cada pessoa deve receber apenas os acessos necessários para desempenhar suas funções. Dessa forma, reduz-se o risco de acessos indevidos e protege-se os dados da organização, garantindo que somente usuários autorizados possam visualizar ou modificar determinadas informações.
 Exemplo: Um atendente pode visualizar os dados do cliente, mas não pode alterá-los.
-Resumo: Garante que somente pessoas autorizadas tenham acesso às informações.
+Resumo: Controla quem pode acessar os sistemas e quais permissões cada usuário possui.
 
                            SEXTO DOMÍNIO - AVALIAÇÃO E TESTE DE SEGURANÇA
-Envolve identificar riscos e vulnerabilidades por meio de testes, auditorias e simulações de ataque (pen tests). Isso ajuda a validar se os sistemas estão realmente protegidos.
+Esse domínio verifica se os controles de segurança realmente estão funcionando. Para isso, realiza auditorias, análises de vulnerabilidades, testes de invasão (Pen Test), revisões de permissões e avaliações de riscos. Seu objetivo é identificar falhas antes que sejam exploradas por criminosos, permitindo que a organização corrija vulnerabilidades e fortaleça sua proteção.
+Exemplo: Contratar especialistas para tentar invadir o sistema e encontrar falhas antes dos criminosos.
+Resumo: Descobre vulnerabilidades para corrigi-las antes que sejam exploradas. Avalia se os sistemas estão realmente protegidos.
 
                               SÉTIMO DOMÍNIO - OPERAÇÕES DE SEGURANÇA 
-Concentra-se na resposta a incidentes e na prevenção de novas violações. Inclui treinamento, relatórios, análise forense e lições aprendidas. As equipes atuam em tempo real para conter ataques e proteger dados.
+Refere-se ao monitoramento contínuo dos sistemas e à resposta aos incidentes de segurança. Os profissionais dessa área utilizam ferramentas como SIEM, sistemas de detecção de intrusão, gerenciamento de logs, documentação, playbooks e análise forense para identificar, investigar e responder rapidamente a ataques cibernéticos. Após cada incidente, também são registradas as lições aprendidas para melhorar os processos e reduzir a possibilidade de novos ataques.
+Exemplo: Investigar um acesso suspeito fora do horário de expediente.
+Resumo: Responsável por monitorar, detectar, responder e investigar incidentes de segurança. Atua quando ocorre um ataque e trabalha para evitar novos incidentes.
 
                       OITAVO DOMÍNIO - SEGURANÇA NO DESENVOLVIMENTO DE SOFTWARE 
-Garante que aplicativos sejam criados com práticas seguras desde o início do ciclo de vida do software (SDLC). Testes de segurança e auditorias de código ajudam a identificar falhas e proteger usuários e organizações.
+Esse domínio garante que a segurança esteja presente durante todo o ciclo de vida do desenvolvimento de software (SDLC), desde o planejamento até a implantação do sistema. São utilizadas práticas de programação segura, testes de vulnerabilidades, criptografia e validação constante da qualidade do software. O objetivo é desenvolver aplicações confiáveis e protegidas, reduzindo falhas que possam ser exploradas por atacantes e garantindo a segurança dos dados dos usuários.
+Exemplo: Configurar corretamente a criptografia de um aplicativo que armazena dados de pacientes.
+Resumo: Desenvolve softwares seguros para proteger usuários e informações.
